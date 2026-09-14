@@ -1,1 +1,2 @@
 Ghi chu thuc hanh
+Ghi chú bài học Git
